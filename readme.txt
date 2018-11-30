@@ -5,3 +5,4 @@ git diff test
 Git tracks changes of files
 Git commit test
 test add
+test commit
