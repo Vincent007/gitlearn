@@ -3,3 +3,5 @@ Git is free software distributed under GPL
 Git has a mutable index called stage
 git diff test
 Git tracks changes of files
+Git commit test
+test add
