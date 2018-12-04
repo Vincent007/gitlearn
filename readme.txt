@@ -6,3 +6,5 @@ Git tracks changes of files
 Git commit test
 test add
 test commit
+tst commet2
+Creating a new branch is quick AND simple.
