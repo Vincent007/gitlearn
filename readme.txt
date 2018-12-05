@@ -6,4 +6,6 @@ Git tracks changes of files
 Git commit test
 test add
 test commit
-Creating a new branch is quick $ simple.
+
+Creating a new branch is quick AND simple.
+
